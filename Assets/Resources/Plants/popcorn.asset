@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9cba6a82f16b4e64be865f0a87b494b, type: 3}
-  m_Name: corn
+  m_Name: popcorn
   m_EditorClassIdentifier: 
-  plantName: CORN
+  plantName: POPCORN
   plantStages:
   - {fileID: -1708194835, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: -1616322519, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: 80366647, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: -78280067, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
-  timeBtwStages: 6
-  buyPrice: 5
-  sellPrice: 7
+  timeBtwStages: 10
+  buyPrice: 20
+  sellPrice: 30
   icon: {fileID: -83263906, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   dryPlanted: {fileID: 1332366472, guid: e53bbc270281e4bbe9a5f850599765d5, type: 3}

@@ -22,3 +22,4 @@ MonoBehaviour:
   buyPrice: 10
   sellPrice: 12
   icon: {fileID: 2070766039, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
+  dryPlanted: {fileID: 1332366472, guid: e53bbc270281e4bbe9a5f850599765d5, type: 3}

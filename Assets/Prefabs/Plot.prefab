@@ -99,7 +99,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa3d56194b9044a2b8db49510f62335, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedPlant: {fileID: 11400000, guid: 7a61f995f2eb04098b81cae8181e19f4, type: 2}
+  availableColor: {r: 0, g: 1, b: 0, a: 1}
+  unavailableColor: {r: 1, g: 0, b: 0, a: 1}
+  drySprite: {fileID: 1372210664, guid: e53bbc270281e4bbe9a5f850599765d5, type: 3}
+  normalSprite: {fileID: 945514275, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
 --- !u!60 &2557658668915513106
 PolygonCollider2D:
   m_ObjectHideFlags: 0

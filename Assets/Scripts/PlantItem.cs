@@ -29,11 +29,11 @@ public class PlantItem : MonoBehaviour
         fm.SelectPlant(this);
     }
 
-    //public void SellPlant()
-    //{
-    //    Debug.Log("Sold " + plant.plantName);
-    //    fm.SelectPlant(this);
-    //}
+    public void SellPlant()
+    {
+        Debug.Log("Sold " + plant.plantName);
+        fm.SelectPlant(this);
+    }
 
     void InitializeUI()
     {

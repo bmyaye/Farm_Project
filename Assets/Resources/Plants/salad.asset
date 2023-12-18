@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e9cba6a82f16b4e64be865f0a87b494b, type: 3}
-  m_Name: tomato
+  m_Name: salad
   m_EditorClassIdentifier: 
-  plantName: TOMATO
+  plantName: SALAD
   plantStages:
   - {fileID: -2051041842, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: 1299062048, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: -1726722813, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   - {fileID: 1332826959, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
-  timeBtwStages: 6
-  buyPrice: 5
-  sellPrice: 7
+  timeBtwStages: 10
+  buyPrice: 15
+  sellPrice: 20
   icon: {fileID: -2010409630, guid: 9c8527956af0b4a1782a0a58b2c86491, type: 3}
   dryPlanted: {fileID: 2042800547, guid: e53bbc270281e4bbe9a5f850599765d5, type: 3}
